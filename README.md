@@ -4,6 +4,12 @@
 
 _Преподаватель: [Светлана Жучкова](https://www.hse.ru/staff/lanalob) (szhuchkova@hse.ru)_
 
+_Ассистенты:_ 
+
+_БПТ181: Анна Букреева, telegram: @ann_bukreeva,_ 
+
+_БПТ182: Руслан Сулейманов, telegram: @rus_slm_
+
 _Ведомости: [БПТ181](https://docs.google.com/spreadsheets/d/15VZUoyeZrWSzl9OMF55MyAd_k6ho2UC-94af75bP_mo/edit?usp=sharing), [БПТ182](https://docs.google.com/spreadsheets/d/1bikjCepPd9OVVd0p2gwwyryg9d-N_22uAMuDhNdWqcE/edit?usp=sharing)_
 
 _Формула оценки: `0.15*Домашнее задание + 0.2*Контрольная работа + 0.1*Онлайн-курс + 0.4*Проект + 0.15*Тесты`_
